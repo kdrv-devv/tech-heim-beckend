@@ -1,0 +1,72 @@
+[
+    {
+      "id": "14",
+      "title": "Iphone 14 promax 256 gig",
+      "brand": "Apple",
+      "model": "Macbook Pro",
+      "size": "13.3 Inches",
+      "ram": "8 GB",
+      "display": "13.3-inch (diagonal) LED-backlit display with IPS technology",
+      "processor": "Apple M2 chip",
+      "graphics": "  Apple 10-core GPU",
+      "height": "0.61 inch (1.56 cm)",
+      "newPrice": 930.9,
+      "dollar": "$",
+      "rate": 4.3,
+      "catagory": "products",
+      "image": "https://main.mobilezone.uz/product-attachment/1/QSjQn-7m_BWBlUYJIMw2CDLHlcw5Sbmb_2_2_2_2_2_2_2_2.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Samsung - Smart TW  50004w",
+      "newPrice": 2535,
+      "dollar": "$",
+      "catagory": "products",
+      "brand": "Samsung",
+      "model": "Samsung Pro",
+      "size": "40.3 Inches",
+      "ram": "12 GB",
+      "display": "13.3-inch (diagonal) LED-backlit display with IPS technology",
+      "processor": "Apple M2 chip",
+      "graphics": "  Apple 10-core GPU",
+      "height": "0.61 inch (1.56 cm)",
+      "rate": 4.8,
+      "image": "https://havells.com/media/catalog/product/cache/844a913d283fe95e56e39582c5f2767b/import/TV/43PS850E.jpg"
+    },
+    {
+      "id": "16",
+      "title": "SAMSUNG Galaxy S24 Ultra Cell Phone,256 GB",
+      "newPrice": 1018,
+      "dollar": "$",
+      "catagory": "products",
+      "brand": "Apple",
+      "model": "Macbook M4",
+      "size": "13.3 Inches",
+      "ram": "19 GB",
+      "display": "13.3-inch (diagonal) LED-backlit display with IPS technology",
+      "processor": "Apple M2 chip",
+      "graphics": "  Apple 10-core GPU",
+      "height": "0.61 inch (1.56 cm)",
+      "rate": 4.7,
+      "image": "https://www.spot.uz/media/img/2024/01/iMz0Sm17055531043890_b.jpg"
+    },
+    {
+      "id": "17",
+      "title": "VR VisionTech X1",
+      "newPrice": 1399,
+      "brand": "Apple",
+      "model": "Macbook Air  ",
+      "size": "13.3 Inches",
+      "ram": "8 GB",
+      "display": "13.3-inch (diagonal) LED-backlit display with IPS technology",
+      "processor": "Apple M2 chip",
+      "graphics": "  Apple 10-core GPU",
+      "height": "0.61 inch (1.56 cm)",
+      "dollar": "$",
+      "catagory": "products",
+      "rate": 3.9,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcST7HeCMiUOc_snD3aoOhcRSFtNfaXPf2_Fr2iGrMJKx2OyxNL_dDR0P1GVcEtg-okP-hD6RVR0btFHqY-agK0GEzfo81axP03lajLDDg_vDds36t1jFue4&usqp=CAc"
+    }
+  ]
+
+  
